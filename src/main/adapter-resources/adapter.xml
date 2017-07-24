@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mfp:adapter name="ibmMobilefirstAdapterSample"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:mfp="http://www.ibm.com/mfp/integration"
+             xmlns:http="http://www.ibm.com/mfp/integration/http">
+
+    <displayName>ExampleAdapter</displayName>
+    <description>ExampleAdapter</description>
+
+    <JAXRSApplicationClass>ru.sberbank.SelfRegistrationAdapterApplication</JAXRSApplicationClass>
+</mfp:adapter>
